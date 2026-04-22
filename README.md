@@ -294,9 +294,7 @@ P(v,h) = exp(-E(v,h)) / Z
 - More sophisticated optimizers
 
 ## Author
-**Student Name**: Dhanush Shetty,
-**Student Name**: Dusica S
-**Student Name**: D Chitra
+**Student Name**: Dhanush Shetty,Dusica S,D Chitra
 
 ## License
 Educational project - MIT License
